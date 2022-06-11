@@ -1,6 +1,6 @@
 # easy_support
 
-A new Flutter project.
+A new Flutter project for the EasySupport Website
 
 ## Getting Started
 
